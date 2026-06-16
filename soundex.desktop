@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Soundex
+Comment=Play IMDb Movies Instantly
+Exec=/home/patch/Documents/projs/soundex/soundex.py
+Icon=multimedia-video-player
+Terminal=false
+Type=Application
+Categories=AudioVideo;Player;
